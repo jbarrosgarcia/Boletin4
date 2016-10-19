@@ -11,7 +11,7 @@ import java.math.*;
  */
 public class Circulo {
     private double radio;
-    private double PI=3.14d;
+    private final double PI=3.14d;
 
     public Circulo() {
     }
